@@ -3,7 +3,13 @@ Uses na.op.gg to generate lists that represent champions played in each role.
 
 Each list contains champions that are commonly played in that respective role, according to op.gg.
 
-This should make data collection easier for some people and will greatly assist me in the development of my app located here: <p align="center">![GitHub release (latest by date)](https://img.shields.io/github/v/release/ej5997/RandomChampAndroidApp?style=plastic)</p>
+This should make data collection easier for some people and will greatly assist me in the development of my app located here: 
+<div align="center">
+<a href="https://github.com/ej5997/RandomChampAndroidApp/releases/tag/v0.1">
+<img src="https://img.shields.io/github/v/release/ej5997/RandomChampAndroidApp?style=for-the-badge"/>
+</a>
+</div>
+
 This script relies on the usage of the BeautifulSoup and requests libraries. Additionally, it is dependent upon op.gg's site layout (HTML). It is incredibly sensitive to site changes and may fall apart if the website is altered in the future.
 
 ## Sample output (as of 9/3/21):
